@@ -1,0 +1,9 @@
+com\api\teste\ApiServiceApplication.class
+com\api\teste\core\service\AlunoService.class
+com\api\teste\controller\AlunoController.class
+com\api\teste\core\domain\entity\Aluno.class
+com\api\teste\config\OpenApiConfig.class
+com\api\teste\core\mapper\AlunoMapper.class
+com\api\teste\core\domain\dto\AlunoResponse.class
+com\api\teste\core\domain\dto\AlunoRequest.class
+com\api\teste\core\persistence\repository\aluno\AlunoRepository.class

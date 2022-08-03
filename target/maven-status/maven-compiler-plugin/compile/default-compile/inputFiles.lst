@@ -1,0 +1,9 @@
+C:\projetos\teste\src\main\java\com\api\teste\core\domain\entity\Aluno.java
+C:\projetos\teste\src\main\java\com\api\teste\core\mapper\AlunoMapper.java
+C:\projetos\teste\src\main\java\com\api\teste\config\OpenApiConfig.java
+C:\projetos\teste\src\main\java\com\api\teste\core\service\AlunoService.java
+C:\projetos\teste\src\main\java\com\api\teste\core\persistence\repository\aluno\AlunoRepository.java
+C:\projetos\teste\src\main\java\com\api\teste\core\domain\dto\AlunoRequest.java
+C:\projetos\teste\src\main\java\com\api\teste\ApiServiceApplication.java
+C:\projetos\teste\src\main\java\com\api\teste\core\domain\dto\AlunoResponse.java
+C:\projetos\teste\src\main\java\com\api\teste\controller\AlunoController.java
