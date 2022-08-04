@@ -21,7 +21,7 @@ public class AlunoMapper {
         AlunoResponse aluno =  new AlunoResponse();
         aluno.setName(alunoRequest.getName());
         aluno.setLastName(alunoRequest.getLastName());
-//        aluno.setBirthDate(alunoRequest.getBirthDate());
+        aluno.setBirthDate(alunoRequest.getBirthDate());
         aluno.setClassroom(alunoRequest.getClassroom());
 
         return aluno;
